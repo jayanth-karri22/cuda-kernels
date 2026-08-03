@@ -1,0 +1,1 @@
+- First benchmark, runner.py -> 220GB/s achieved, 69%(0.0573 ms) of T4's 320GB/s spec sheet.() 
